@@ -5,7 +5,7 @@ import os
 def showInstructions():
     # Print a main menu and the commands
     print("""
-RPG Game
+Surivival RPG
 ========
 
 Get to the Garden with a key and a potion.
